@@ -1,6 +1,6 @@
 # Semantic Insight Engine
 
-**[🚀 View Live Demo](https://your-app-link.streamlit.app)**
+**[🚀 View Live Demo]([https://your-app-link.streamlit.app](https://flagship-enrage-amusable.ngrok-free.dev/))**
 
 ---
 
