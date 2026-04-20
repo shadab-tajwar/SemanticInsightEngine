@@ -1,5 +1,9 @@
 # Semantic Insight Engine
 
+**[🚀 View Live Demo](https://your-app-link.streamlit.app)**
+
+---
+
 A production-ready NLP tool designed to transform unstructured technical documentation into structured insights. 
 
 ## Overview
